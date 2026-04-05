@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.3-orange)
 ![Accuracy](https://img.shields.io/badge/Accuracy-88.5%25-green)
-![License](https://img.shields.io/badge/License-MIT-yellow)
 
 > A robust machine learning pipeline for heart disease risk classification using KNN and SVM models, achieving **88.5% prediction accuracy** with precision and recall exceeding **85%**.
 
@@ -197,8 +196,4 @@ python -m pytest tests/
 - **Joblib** — model persistence
 - **Jupyter Notebook** — interactive analysis
 
----
 
-## 📄 License
-
-This project is licensed under the MIT License.
